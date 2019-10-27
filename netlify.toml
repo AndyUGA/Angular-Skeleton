@@ -1,4 +1,4 @@
 
-/[build]
+[build]
   command = "npm run build:prod"
   publish = "dist/angular-skeleton"
